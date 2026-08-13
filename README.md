@@ -1,9 +1,9 @@
 <!-- Banner de presentación: Te sugiero un diseño sobrio, con fondo negro o muy oscuro, tipografía limpia y sin demasiados elementos visuales (evita íconos literales o clichés como candados para hablar de seguridad). -->
 <div align="center">
-  <img src="[https://i.pinimg.com/736x/0f/7c/4f/0f7c4fe2e12a977212b4715be99195e4.jpg]" alt="Wane Santiago López Quintero - Software Developer" width="100%" />
+  <img src="[https://i.pinimg.com/736x/0f/7c/4f/0f7c4fe2e12a977212b4715be99195e4.jpg]" alt="" width="100%" />
 </div>
 
-# ¡Hola! Soy Wane Santiago López Quintero 👋
+# ¡Hola! Soy Wane 
 
 Soy Desarrollador de Software (SENA ADSO 3311987) especializado en arquitecturas escalables, microservicios y el diseño de interfaces limpias y eficientes. Me apasiona construir sistemas robustos desde la infraestructura hasta la experiencia del usuario, integrando inteligencia artificial para potenciar la toma de decisiones.
 
